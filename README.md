@@ -1,2 +1,2 @@
-# -HW
+# -python-HW
 ITM 프로그래밍언어 과제
